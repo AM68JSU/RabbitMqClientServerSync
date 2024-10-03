@@ -1,0 +1,17 @@
+D:\Source\GithubProject\RabbitMqClientServerSync\ClientServerSyncRabbitMq.Infrastructure\bin\Debug\net6.0\ClientServerSyncRabbitMq.Infrastructure.deps.json
+D:\Source\GithubProject\RabbitMqClientServerSync\ClientServerSyncRabbitMq.Infrastructure\bin\Debug\net6.0\ClientServerSyncRabbitMq.Infrastructure.runtimeconfig.json
+D:\Source\GithubProject\RabbitMqClientServerSync\ClientServerSyncRabbitMq.Infrastructure\bin\Debug\net6.0\ClientServerSyncRabbitMq.Infrastructure.dll
+D:\Source\GithubProject\RabbitMqClientServerSync\ClientServerSyncRabbitMq.Infrastructure\bin\Debug\net6.0\ClientServerSyncRabbitMq.Infrastructure.pdb
+D:\Source\GithubProject\RabbitMqClientServerSync\ClientServerSyncRabbitMq.Infrastructure\bin\Debug\net6.0\ClientServerSyncRabbitMq.Domain.dll
+D:\Source\GithubProject\RabbitMqClientServerSync\ClientServerSyncRabbitMq.Infrastructure\bin\Debug\net6.0\ClientServerSyncRabbitMq.Domain.pdb
+D:\Source\GithubProject\RabbitMqClientServerSync\ClientServerSyncRabbitMq.Infrastructure\obj\Debug\net6.0\ClientServerSyncRabbitMq.Infrastructure.csproj.AssemblyReference.cache
+D:\Source\GithubProject\RabbitMqClientServerSync\ClientServerSyncRabbitMq.Infrastructure\obj\Debug\net6.0\ClientServerSyncRabbitMq.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source\GithubProject\RabbitMqClientServerSync\ClientServerSyncRabbitMq.Infrastructure\obj\Debug\net6.0\ClientServerSyncRabbitMq.Infrastructure.AssemblyInfoInputs.cache
+D:\Source\GithubProject\RabbitMqClientServerSync\ClientServerSyncRabbitMq.Infrastructure\obj\Debug\net6.0\ClientServerSyncRabbitMq.Infrastructure.AssemblyInfo.cs
+D:\Source\GithubProject\RabbitMqClientServerSync\ClientServerSyncRabbitMq.Infrastructure\obj\Debug\net6.0\ClientServerSyncRabbitMq.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Source\GithubProject\RabbitMqClientServerSync\ClientServerSyncRabbitMq.Infrastructure\obj\Debug\net6.0\ClientServerSyncRabbitMq.Infrastructure.csproj.CopyComplete
+D:\Source\GithubProject\RabbitMqClientServerSync\ClientServerSyncRabbitMq.Infrastructure\obj\Debug\net6.0\ClientServerSyncRabbitMq.Infrastructure.dll
+D:\Source\GithubProject\RabbitMqClientServerSync\ClientServerSyncRabbitMq.Infrastructure\obj\Debug\net6.0\refint\ClientServerSyncRabbitMq.Infrastructure.dll
+D:\Source\GithubProject\RabbitMqClientServerSync\ClientServerSyncRabbitMq.Infrastructure\obj\Debug\net6.0\ClientServerSyncRabbitMq.Infrastructure.pdb
+D:\Source\GithubProject\RabbitMqClientServerSync\ClientServerSyncRabbitMq.Infrastructure\obj\Debug\net6.0\ClientServerSyncRabbitMq.Infrastructure.genruntimeconfig.cache
+D:\Source\GithubProject\RabbitMqClientServerSync\ClientServerSyncRabbitMq.Infrastructure\obj\Debug\net6.0\ref\ClientServerSyncRabbitMq.Infrastructure.dll

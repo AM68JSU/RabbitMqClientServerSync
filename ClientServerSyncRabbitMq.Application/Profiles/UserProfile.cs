@@ -8,5 +8,8 @@ public class UserProfile : Profile
     {
         CreateMap<User, UserDto>(); // تعریف نقشه‌برداری بین مدل User و UserDto
         CreateMap<UserDto, User>(); // تعریف نقشه‌برداری برگشتی
+
+        CreateMap<CreateUserDto, User>().ReverseMap(); // تعریف نقشه‌برداری برگشتی
+
     }
 }

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "//F6MBCFYLugliEoj/i1ADqfCxO4zZEJ3ROAbKMCchM=",
+  "Source": "ClientServerSyncRabbitMq.Api",
+  "BasePath": "_content/ClientServerSyncRabbitMq.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

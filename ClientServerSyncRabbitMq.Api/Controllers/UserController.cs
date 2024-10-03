@@ -29,10 +29,10 @@ namespace ClientServerSyncRabbitMq.Controllers
 
         // ارسال پیام به سرور از سمت کلاینت (UserController)
         [HttpPost("add-user")]
-        public async Task<IActionResult> AddUser([FromBody] UserDto userDto)
+        public async Task<IActionResult> AddUser([FromBody] CreateUserDto CreateUserDto)
         {
-            // استفاده از AutoMapper برای تبدیل UserDto به User
-            var user = _mapper.Map<User>(userDto);
+            // استفاده از AutoMapper برای تبدیل CreateUserDto به User
+            var user = _mapper.Map<User>(CreateUserDto);
 
             _clientDbContext.Users.Add(user);
             await _clientDbContext.SaveChangesAsync();

@@ -1,0 +1,15 @@
+D:\Source\GithubProject\RabbitMqClientServerSync\ClientServerSyncRabbitMq.Application\bin\Debug\net6.0\ClientServerSyncRabbitMq.Application.deps.json
+D:\Source\GithubProject\RabbitMqClientServerSync\ClientServerSyncRabbitMq.Application\bin\Debug\net6.0\ClientServerSyncRabbitMq.Application.dll
+D:\Source\GithubProject\RabbitMqClientServerSync\ClientServerSyncRabbitMq.Application\bin\Debug\net6.0\ClientServerSyncRabbitMq.Application.pdb
+D:\Source\GithubProject\RabbitMqClientServerSync\ClientServerSyncRabbitMq.Application\bin\Debug\net6.0\ClientServerSyncRabbitMq.Domain.dll
+D:\Source\GithubProject\RabbitMqClientServerSync\ClientServerSyncRabbitMq.Application\bin\Debug\net6.0\ClientServerSyncRabbitMq.Domain.pdb
+D:\Source\GithubProject\RabbitMqClientServerSync\ClientServerSyncRabbitMq.Application\obj\Debug\net6.0\ClientServerSyncRabbitMq.Application.csproj.AssemblyReference.cache
+D:\Source\GithubProject\RabbitMqClientServerSync\ClientServerSyncRabbitMq.Application\obj\Debug\net6.0\ClientServerSyncRabbitMq.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source\GithubProject\RabbitMqClientServerSync\ClientServerSyncRabbitMq.Application\obj\Debug\net6.0\ClientServerSyncRabbitMq.Application.AssemblyInfoInputs.cache
+D:\Source\GithubProject\RabbitMqClientServerSync\ClientServerSyncRabbitMq.Application\obj\Debug\net6.0\ClientServerSyncRabbitMq.Application.AssemblyInfo.cs
+D:\Source\GithubProject\RabbitMqClientServerSync\ClientServerSyncRabbitMq.Application\obj\Debug\net6.0\ClientServerSyncRabbitMq.Application.csproj.CoreCompileInputs.cache
+D:\Source\GithubProject\RabbitMqClientServerSync\ClientServerSyncRabbitMq.Application\obj\Debug\net6.0\ClientServerSyncRabbitMq.Application.csproj.CopyComplete
+D:\Source\GithubProject\RabbitMqClientServerSync\ClientServerSyncRabbitMq.Application\obj\Debug\net6.0\ClientServerSyncRabbitMq.Application.dll
+D:\Source\GithubProject\RabbitMqClientServerSync\ClientServerSyncRabbitMq.Application\obj\Debug\net6.0\refint\ClientServerSyncRabbitMq.Application.dll
+D:\Source\GithubProject\RabbitMqClientServerSync\ClientServerSyncRabbitMq.Application\obj\Debug\net6.0\ClientServerSyncRabbitMq.Application.pdb
+D:\Source\GithubProject\RabbitMqClientServerSync\ClientServerSyncRabbitMq.Application\obj\Debug\net6.0\ref\ClientServerSyncRabbitMq.Application.dll
