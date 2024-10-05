@@ -122,3 +122,4 @@ D:\Source\GithubProject\RabbitMqClientServerSync\ClientServerSyncRabbitMq.Api\ob
 D:\Source\GithubProject\RabbitMqClientServerSync\ClientServerSyncRabbitMq.Api\obj\Debug\net6.0\ClientServerSyncRabbitMq.Api.pdb
 D:\Source\GithubProject\RabbitMqClientServerSync\ClientServerSyncRabbitMq.Api\obj\Debug\net6.0\ClientServerSyncRabbitMq.Api.genruntimeconfig.cache
 D:\Source\GithubProject\RabbitMqClientServerSync\ClientServerSyncRabbitMq.Api\obj\Debug\net6.0\ref\ClientServerSyncRabbitMq.Api.dll
+D:\Source\GithubProject\RabbitMqClientServerSync\ClientServerSyncRabbitMq.Api\bin\Debug\net6.0\FluentValidation.dll

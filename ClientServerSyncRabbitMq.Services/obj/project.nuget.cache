@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "F1/Z/B3L1S0v9UmRFXV2iyhgehQKZA9M6xIW/z9JN3LlXqYyxn+cBdYu9pXe3lkS7GO4ANdeuIS/xrIWsVpAUg==",
+  "dgSpecHash": "8x4SLs0JbTTrFjWOs84lyOKVd7z/x4CEIrhShuFEM2GcT6akZk1fgcEbuDurO461QtxLBOtSj4y4x7LGoI5VBA==",
   "success": true,
   "projectFilePath": "D:\\Source\\GithubProject\\RabbitMqClientServerSync\\ClientServerSyncRabbitMq.Services\\ClientServerSyncRabbitMq.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\fluentvalidation\\11.10.0\\fluentvalidation.11.10.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

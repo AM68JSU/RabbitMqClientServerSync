@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "xpbuoVghDELCO1ztTe03L/gzjTn1xfqCs+8ucxIvDVG9bl5SBsYJfL9m5ykT2y8e5AHPa6M/qd2LpiJ8NECL8w==",
+  "dgSpecHash": "qQrqczVxwcPQSLGbjPibXDlIJa8zZr9jNcVE3gXMaBHrNiRYyODgJbo8vimcsuPWX2XUrfBc0sQya7UTlUyhDw==",
   "success": true,
   "projectFilePath": "D:\\Source\\GithubProject\\RabbitMqClientServerSync\\ClientServerSyncRabbitMq.Application\\ClientServerSyncRabbitMq.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\fluentvalidation\\11.10.0\\fluentvalidation.11.10.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
